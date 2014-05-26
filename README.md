@@ -1,2 +1,2 @@
-# 2048
-New challenge of 2048 game
+# 2049
+The game is new customized game based on original 2048.
